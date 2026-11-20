@@ -1,0 +1,9 @@
+gameId,playId,etiqueta,playDescription,possessionTeam,defensiveTeam,down,yardsToGo,pff_passCoverage,passResult,ttp,ttt,n_rushers,linea_x
+2021091201,4103,Sack con 4 rushers: la presión más rápida,"(1:53) (No Huddle, Shotgun) J.Allen sacked at PIT 42 for -5 yards (T.Watt). Penalty on BUF-D.Dawkins, Offensive Holding, declined.",BUF,PIT,1,10,Cover-3,S,1.3,4.2,4,69.47
+2021100400,800,Sack con 4 rushers: la presión más rápida,(3:25) (Shotgun) J.Herbert sacked at LV 44 for -5 yards (D.Philon).,LAC,LV,1,10,Cover-1,S,1.5,2.8,4,70.24
+2021091912,1218,Sack con blitz: la presión más rápida,(8:59) (Shotgun) R.Tannehill sacked at SEA 12 for -7 yards (B.Wagner).,TEN,SEA,3,5,Cover-3,S,1.6,2.6,5,104.44
+2021100310,942,Sack con blitz: la presión más rápida,(15:00) (Shotgun) J.Garoppolo sacked at SEA 30 for -7 yards (J.Brooks).,SF,SEA,2,8,Cover-6,S,1.7,2.0,5,87.07
+2021091905,3168,BUF: presión rápida con 4 rushers,(4:08) (Shotgun) J.Brissett pass incomplete short right to P.Williams (T.White).,MIA,BUF,3,2,Cover-1,I,2.0,2.1,4,50.1
+2021091905,3098,BUF: presión rápida con 4 rushers,"(5:18) (No Huddle, Shotgun) J.Brissett pass short right to D.Parker to MIA 33 for 7 yards (M.Hyde).",MIA,BUF,3,4,Cover-3,C,2.0,3.2,4,35.65
+2021100304,1115,IND: presión rápida con 4 rushers,(8:14) J.Brissett pass incomplete short right to D.Parker [G.Stewart].,MIA,IND,2,6,Cover-6,I,1.4,1.5,4,63.83
+2021091206,1687,Sin presión: el QB tiene tiempo y completa,"(:51) (Shotgun) R.Wilson pass deep middle to T.Lockett for 69 yards, TOUCHDOWN.",SEA,IND,2,20,Cover-6,C,,4.0,4,40.4
